@@ -1,0 +1,155 @@
+.caja{
+	background-color: black;
+	width: 96%;
+	padding-left: 1.4%; 
+	padding-right: 1.4%;
+	margin: 0px auto;
+}
+
+ul li {
+	float: left;
+	list-style: none;
+	padding-top: 5%;
+	margin:1%;
+
+}
+a{
+	text-decoration: none;
+	color: white;
+	font-family: Arial;
+	font-size: 14px;
+}
+.cajados {
+	background-color:#F0E6E6;
+	width: 96%;
+	padding-left: 3%; 
+	padding-right: 3%;
+	padding-bottom: 2.5%;
+	padding-top: 2.5%;
+	margin: 0px auto;
+}
+
+h2 h5{
+	float: left;
+}
+
+.fotodos{
+	float: left;
+	width: 100%;
+	position: relative;
+	border: 2px solid white;
+}
+p{
+	text-align: center;
+	color: #181297;
+	font-family: Arial;
+}
+.ep{
+	color:#4434E2;
+}
+.cajatres{
+	width: 100%;
+	background-color: white;
+	padding-left: 3%; 
+	padding-right: 3%;
+	padding-bottom: 2.5%;
+	padding-top: 2.5%;
+}
+
+.fototres{
+	float: left;
+	width: 100%;
+	position:relative;
+	border: 2px solid white;
+}
+.parrafo{
+	text-align: center;
+	font-family: Verdana;
+	font-size:10px;
+	color: #161699;
+}
+
+.cuadrotres{
+	color:#928585;
+	font-family: Arial;
+}
+
+.lineaa{
+	width: 100%;
+	border: 1px solid #A19696;
+}
+.itunes{
+	padding: 0 0 0 20%;
+	background: url(../img/icons/itunes.png) no-repeat left;
+	color: blue;
+	font-size: 15px;
+
+}
+.rss{
+	padding: 0 0 0 20%;
+	background: url(../img/icons/rss.png) no-repeat left;
+	color: blue;
+	font-size: 15px;
+}
+.pocket{
+	padding: 0 0 0 20%;
+	background: url(../img/icons/podcast.png) no-repeat left;
+	color: blue;
+	font-size: 15px;
+	background-size: 12%;
+}
+
+.radio{
+	padding: 0 0 0 20%;
+	background: url(../img/icons/radio.png) no-repeat left;
+	background-size: 12%;
+	color: blue;
+}
+.mac{
+	padding: 0 0 0 20%;
+	background: url(../img/icons/pencil.png) no-repeat left;
+	background-size: 13%;
+	color: blue;
+}
+.pf{
+	color: black;
+}
+
+.footer{
+	background-color: #404040;
+	width: 100%;	
+	margin-top: 3%;
+}
+.footer p{
+	color: white;
+	width: 100%;
+	font-family:Arial;
+	font-size: 15px;
+	padding: 3% 0 0 2%;
+}
+.footer p a{
+	color: #C7C7C7;
+	text-decoration: none;
+	font-family: Arial;
+	font-size: 14px;
+}
+.linkf a{
+	color: #C7C7C7;
+	text-decoration: none;	
+	font-family: Arial;
+	font-size: 12px;
+	display: inline-block;	
+	padding-right: 2%;
+}
+.linkfooter {
+	padding-top: 5%;
+	margin-left: 20%;
+}
+.derechos p{
+	color: #B3B3B3;
+	font-family: Arial;
+	font-size: 11px;
+	display: inline-block;
+	margin-left: 50%;
+	padding: 5% 0;
+}
